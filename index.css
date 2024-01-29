@@ -132,7 +132,7 @@ li {
 }
 
 .job-experience {
-    width: 90%;
+    width: 90vw;
 }
 
 .job-experience h3 {
@@ -142,13 +142,13 @@ li {
 
 .pricing {
     display: flex;
-    width: 80%;
+    width: 90vw;
     align-items: center;
     justify-content: center;
 }
 
 .pricing table {
-    text-align: center;
+    text-align: start;
     size: x-large;
 }
 
